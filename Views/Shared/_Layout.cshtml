@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Home</title>
+    <link rel="stylesheet" href="~/css/home.css" />
+</head>
+<header class="content">
+    <ul class="contato">
+        <li><a target="_blank" href="https://github.com/JoVi0li"></a></li>
+        <li><a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"></a></li>
+    </ul>
+
+    <nav class="navegacao">
+        <ul>
+            <li><a href="">home</a></li>
+            <li><a href="">sobre</a></li>
+            <li><a href="">projetos</a></li>
+            <li><a href="">contato</a></li>
+        </ul>
+    </nav>
+</header>
+<body>
+
+        <main class="main content flex-center-bt">
+            @RenderBody()
+        </main>
+
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

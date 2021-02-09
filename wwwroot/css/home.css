@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Imprima&family=Saira+Condensed:wght@500&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box
+}
+
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Imprima', sans-serif;
+font-family: 'Saira Condensed', sans-serif; */
+.content
+{
+    width: 1670px;
+    height: 100%;
+    margin: auto;
+}
+
+.flex-center-bt
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header
+{
+    width: 100%;
+    height: 80px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+
+.contato
+{
+    display: none;
+}
+
+.navegacao
+{
+    width: 670px;
+    height: 60px;
+}
+
+.navegacao ul
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+}
+
+.navegacao a 
+{
+    text-decoration: none;
+    color: #D9CDB7;
+}
+
+.navegacao a:hover
+{
+    color: #D93B3A;
+}
+/* fim do header */
+
+body
+{
+    background-color: #032E3F;
+}
+
+.main
+{
+    margin-top: 150px;
+}
+
+.apresentacao
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 620px;
+    height: 370px;
+}
+
+.ola
+{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 96px;
+    color: white;
+}
+
+.dev
+{
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 72px;
+    color: #D9CDB7;
+}
+
+.contato-home
+{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    width: 100%;
+
+}
+
+.contato-home img
+{
+    width: 80px;
+    height: 80px;
+    color: #227374;
+}
+
+
+.footer
+{
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 36px;
+    color: black;
+}
