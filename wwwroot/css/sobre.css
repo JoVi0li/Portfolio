@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Imprima&family=Saira+Condensed:wght@500&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box
+}
+
+.content
+{
+    width: 1670px;
+    height: 100%;
+    margin: auto;
+}
+
+header
+{
+    width: 100%;
+    height: 100px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.navegacao
+{
+    width: 670px;
+    height: 80px;
+}
+
+.navegacao ul
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+}
+
+.navegacao a
+{
+    text-decoration: none;
+    color: #D9CDB7;
+    filter: drop-shadow(9px 8px 5px black);
+}
+
+.navegacao a:hover
+{
+    color: #D93B3A;
+}
+
+
+.contato
+{
+    width: 200px;
+    display: block;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.contato img
+{
+    color:#227374;
+}
+
+.github-img
+{
+    width: 50px;
+}
+
+.email-img
+{
+    width: 60px;
+}
+
+/* Fim do Header */
+
+body
+{
+    background-color: #032E3F;
+}
+
+.main
+{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text-sobre
+{
+    width: 840px;
+    font-family: 'Imprima', sans-serif;
+    font-size: 48px;
+    color: white;
+    text-align: justify;
+}
+
+.text-salmon
+{
+    color: #F27A5F;
+}
+

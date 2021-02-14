@@ -32,3 +32,6 @@ C:\Users\JoViO\OneDrive\Documentos\GitHub\Portfolio\obj\Debug\netcoreapp3.1\Port
 C:\Users\JoViO\OneDrive\Documentos\GitHub\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.pdb
 C:\Users\JoViO\OneDrive\Documentos\GitHub\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.genruntimeconfig.cache
 C:\Users\JoViO\OneDrive\Documentos\GitHub\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.csproj.CopyComplete
+C:\Users\JoViO\OneDrive\Documentos\GitHub\Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Sobre\Sobre.cshtml.g.cs
+C:\Users\JoViO\OneDrive\Documentos\GitHub\Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Projetos\Projetos.cshtml.g.cs
+C:\Users\JoViO\OneDrive\Documentos\GitHub\Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Contato.cshtml.g.cs

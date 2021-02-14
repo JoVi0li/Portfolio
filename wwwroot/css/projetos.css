@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Imprima&family=Saira+Condensed:wght@500&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box
+}
+
+.content
+{
+    width: 1670px;
+    height: 100%;
+    margin: auto;
+}
+
+header
+{
+    width: 100%;
+    height: 100px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.navegacao
+{
+    width: 670px;
+    height: 80px;
+}
+
+.navegacao ul
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+}
+
+.navegacao a
+{
+    text-decoration: none;
+    color: #D9CDB7;
+    filter: drop-shadow(9px 8px 5px black);
+}
+
+.navegacao a:hover
+{
+    color: #D93B3A;
+}
+
+
+.contato
+{
+    width: 200px;
+    display: block;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.contato img
+{
+    color:#227374;
+}
+
+.github-img
+{
+    width: 50px;
+}
+
+.email-img
+{
+    width: 60px;
+}
+
+/* fim do Header */
+
+body
+{
+    background-color: #032E3F;
+    background-image: url("../img/background_projetos.svg");
+    background-repeat: no-repeat;
+    background-size: 1600px;
+    background-position: center;
+    
+}
+
+.projeto-instadev
+{
+    width: 1500px;
+    height: 800px;
+    background-color: #227374;
+    border-radius: 50px;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.projeto-instadev h1
+{
+    font-size: 144px;
+    color: #D9CDB7;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.projeto-eplayers
+{
+    width: 1500px;
+    height: 800px;
+    background-color: #D9CDB7;
+    border-radius: 50px;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.projeto-eplayers h1
+{
+    font-size: 144px;
+    color: #032E3F;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.projeto-sabesp
+{
+    width: 1500px;
+    height: 800px;
+    background-color: #227374;
+    border-radius: 50px;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.projeto-sabesp h1
+{
+    font-size: 144px;
+    color: #D9CDB7;
+    font-family: 'Bebas Neue', cursive;
+}

@@ -14397,13 +14397,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\JoViO\\OneDrive\\Documentos\\GitHub\\Portfolio\\Views\\Sobre\\Sobre.cshtml",
+      "TargetPath": "Views\\Sobre\\Sobre.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\JoViO\\OneDrive\\Documentos\\GitHub\\Portfolio\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\JoViO\\OneDrive\\Documentos\\GitHub\\Portfolio\\Views\\Contato\\Contato.cshtml",
+      "TargetPath": "Views\\Contato\\Contato.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\JoViO\\OneDrive\\Documentos\\GitHub\\Portfolio\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\JoViO\\OneDrive\\Documentos\\GitHub\\Portfolio\\Views\\Projetos\\Projetos.cshtml",
+      "TargetPath": "Views\\Projetos\\Projetos.cshtml",
       "FileKind": "mvc"
     },
     {
